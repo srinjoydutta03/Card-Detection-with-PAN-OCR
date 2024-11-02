@@ -75,10 +75,10 @@ A Gradio-based application that uses YOLO for detecting PAN cards and Aadhar Car
 Screenshots of the app interface and outputs will be added here.
 
 - **App Interface**  
-  ![App Interface](assets/Landing Page.png)
+  ![App Interface](/assets/landing_page.png)
 
 - **Detected PAN Number and Timestamp**  
-  ![PAN Number and Timestamp](assets/Detected PAN Number.png)
+  ![PAN Number and Timestamp](/assets/detected_pan_number.png)
 
 ## Project Structure
 
