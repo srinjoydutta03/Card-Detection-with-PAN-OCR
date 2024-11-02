@@ -75,13 +75,10 @@ A Gradio-based application that uses YOLO for detecting PAN cards and Aadhar Car
 Screenshots of the app interface and outputs will be added here.
 
 - **App Interface**  
-  ![App Interface](assets/app_interface.png)
-
-- **Processed Frame with Detection**  
-  ![Processed Frame](assets/processed_frame.png)
+  ![App Interface](assets/Landing Page.png)
 
 - **Detected PAN Number and Timestamp**  
-  ![PAN Number and Timestamp](assets/pan_number_timestamp.png)
+  ![PAN Number and Timestamp](assets/Detected PAN Number.png)
 
 ## Project Structure
 
@@ -96,6 +93,8 @@ PAN-CARD-WITH-OCR/
 ├── requirements.txt        # List of dependencies
 └── assets/                 # Folder for storing screenshots and other assets
 ```
+
+> The train-yolo folder contains the jupyter notebook used to train the yolo model
 
 ## Contributing
 
